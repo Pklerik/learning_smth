@@ -12,3 +12,4 @@ def find_smallest(array:list):
             smallest = item
             smallest_index = index
     return smallest_index
+
